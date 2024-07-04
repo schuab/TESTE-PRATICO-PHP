@@ -8,7 +8,7 @@ O objetivo deste teste é conhecer suas habilidades em:
 * Integração com WebServices/API;
 
 A aplicação deve ser feita em PHP puro e banco de dados MySQL.
-Qualquer tela de interface
+Qualquer tela de interface deverá ser feita com HTML/CSS puro, sem framework(bootstrap).
 
 ## Problema
 
