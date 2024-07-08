@@ -56,5 +56,6 @@ Qualquer tela de interface deverá ser feita com HTML/CSS puro, sem framework(bo
 * Aplicação de design patterns;
 * Separação de módulos e componentes;
 * Legibilidade;
+* Tempo;
 
 Boa sorte!
